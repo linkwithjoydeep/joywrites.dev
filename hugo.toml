@@ -11,7 +11,7 @@ tag = 'tags'
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "Developer Blog | Tales of Systems That (Usually) Don't Crash, Coffee-Fueled Code Adventures, and Why Databases Have Trust Issues"
 
 # Appearance settings
 theme = 'auto'
@@ -19,10 +19,13 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
+homeIntroTitle = 'Hello!'
 homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+I wrote my first "Hello World" in GW-BASIC on an 8-bit video game console. Today, I'm still saying hello to the world—just with more Golang, Node.js, and significantly better coffee.
+
+I build backend systems that (usually) don't break at 3 AM, tinker with distributed architectures, and occasionally convince databases to behave. Between deployments, you'll catch me learning my fifth programming language or attempting to master my first guitar solo.
+
+This is where I document the beautiful chaos of software development—the victories, the 2 AM debugging sessions, and everything in between.
 """
 
 # Collection to display on home
@@ -42,12 +45,12 @@ home = "Home"
 
 # Social icons
 [[params.social]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/linkwithjoy/"
-
-[[params.social]]
 name = "github"
 url = "https://github.com/linkwithjoydeep"
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/linkwithjoy/"
 
 [[params.social]]
 name = "medium"
