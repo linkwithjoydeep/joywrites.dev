@@ -1,0 +1,9 @@
+name = "joywrites-blog"
+compatibility_date = "2025-07-27"
+
+[build]
+command = "build.sh"
+
+[assets]
+directory = "./public"
+not_found_handling = "404-page"
