@@ -26,5 +26,5 @@ main() {
   hugo --gc --minify
 }
 
-set -euo pipefall
+set -euo pipefail
 main "$@"
