@@ -7,7 +7,7 @@ main() {
 
   #Install Hugo
   echo "installing Hugo v${HUGO_VERSION}..."
-  curl -LJo https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz
+  curl -LJO https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz
   tar -xf "hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
   cp hugo /opt/buildhome
   rm LICENCE README.md hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz
