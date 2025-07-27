@@ -1,7 +1,7 @@
 #!/bin/bash
 
 main() {
-  HUGO_VERSION=v0.148.2
+  HUGO_VERSION=0.148.2
 
   export TZ=Asia/Kolkata
 
