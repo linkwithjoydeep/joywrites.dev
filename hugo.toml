@@ -4,7 +4,7 @@ title = "joywrites.dev"
 theme = 'typo'
 
 # Google analytics code
-# googleAnalytics = "G-xxxxxxxxx"
+googleAnalytics = "G-DR9ED262WM"
 
 [taxonomies]
 tag = 'tags'
