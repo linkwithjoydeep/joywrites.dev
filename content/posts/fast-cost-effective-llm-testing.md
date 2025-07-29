@@ -15,7 +15,6 @@ hideBackToTop: false
 fediverse: "@username@instance.url"
 ---
 
-# Testing LLM Responses: A Fast, Cost-Effective Alternative to LLM-as-Judge
 
 While working on a personal project that involved LLM responses, I hit a wall. The popular "LLM-as-judge" approach—using another LLM to evaluate outputs—was burning through my personal API budget and taking forever to run. I needed something faster and cheaper for my side project's continuous monitoring.
 
