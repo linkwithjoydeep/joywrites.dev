@@ -76,10 +76,10 @@ style = 'algol'
 
 # Giscus comments
 [params.giscus]
-enable = false
-repo = "user/repo"
-repoid = "repoId"
+enable = true
+repo = "linkwithjoydeep/joywrites.dev"
+repoid = "R_kgDOPTCE6w"
 category = "General"
-categoryid = "categoryId"
+categoryid = "DIC_kwDOPTCE684CtiX4"
 mapping = "pathname"
 theme = "preferred_color_scheme"
