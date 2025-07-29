@@ -1,4 +1,4 @@
----
++++
 title: "Testing LLM Responses: A Fast, Cost-Effective Alternative to LLM-as-Judge"
 author: "Joydeep Bhattacharya"
 authorAvatarPath: "/avatar.jpg"
@@ -8,12 +8,11 @@ description: "Learn how to implement cost-effective LLM response testing using T
 toc: true
 readTime: true
 autonumber: true
-draft: false
 math: false
 tags: ["llm", "testing", "machine-learning", "nlp", "evaluation", "python"]
 showTags: true
 hideBackToTop: false
----
++++
 
 # Testing LLM Responses: A Fast, Cost-Effective Alternative to LLM-as-Judge
 
