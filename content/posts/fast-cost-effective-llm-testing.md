@@ -1,18 +1,19 @@
-+++
+---
 title: "Testing LLM Responses: A Fast, Cost-Effective Alternative to LLM-as-Judge"
 author: "Joydeep Bhattacharya"
 authorAvatarPath: "/avatar.jpg"
-date: '2025-07-29T16:28:33+05:30'
+date: '2025-07-28T16:28:33+05:30'
 summary: "A practical approach to LLM response evaluation using length-adjusted cosine similarity for fast, budget-friendly monitoring in personal projects."
 description: "Learn how to implement cost-effective LLM response testing using TF-IDF and cosine similarity instead of expensive LLM-as-judge evaluations."
 toc: true
 readTime: true
 autonumber: true
 math: false
-tags: ["llm", "testing", "machine-learning", "nlp", "evaluation", "python"]
+tags: ["llm", "testing", "machine-learning"]
 showTags: true
 hideBackToTop: false
-+++
+fediverse: "@username@instance.url"
+---
 
 # Testing LLM Responses: A Fast, Cost-Effective Alternative to LLM-as-Judge
 
