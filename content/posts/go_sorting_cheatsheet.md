@@ -1,5 +1,5 @@
 ---
-title: "Mastering Go Sorting: Your Complete Interview Cheatsheet"
+title: "Mastering Go Sorting: Your Interview Cheatsheet"
 author: "Joydeep Bhattacharya"
 authorAvatarPath: "https://github.com/linkwithjoydeep.png?size=150"
 date: '2025-08-27T10:30:00+05:30'
