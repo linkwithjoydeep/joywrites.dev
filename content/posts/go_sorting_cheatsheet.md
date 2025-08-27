@@ -268,15 +268,6 @@ slices.SortFunc(employees, func(a, b Employee) int {
 | Custom sort | `slices.SortFunc(slice, cmp)` | Flexible, not stable |
 | Stable custom sort | `slices.SortStableFunc(slice, cmp)` | Preserves equal element order |
 | Comparison | `cmp.Compare(x, y)` | Returns -1, 0, or +1 |
-| Binary search | `slices.BinarySearch(slice, target)` | Requires sorted slice |
-
-## Practice Problems to Master
-
-- **Merge Intervals**: Sort intervals by start time, handle overlaps
-- **Top K Elements**: Use sorting + slicing or heap-based approach
-- **Meeting Rooms**: Sort by start time, check for conflicts
-- **Largest Number**: Custom string concatenation comparison
-- **Sort Colors**: Dutch national flag problem variation
 
 ## The Bottom Line
 
