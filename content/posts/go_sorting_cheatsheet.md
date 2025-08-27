@@ -2,7 +2,7 @@
 title: "Mastering Go Sorting: Your Complete Interview Cheatsheet"
 author: "Joydeep Bhattacharya"
 authorAvatarPath: "https://github.com/linkwithjoydeep.png?size=150"
-date: '2025-01-15T10:30:00+05:30'
+date: '2025-08-27T10:30:00+05:30'
 summary: "Master Go's built-in sorting capabilities for technical interviews. From basic slices.Sort() to custom comparison functions and stable sorting - everything you need to ace sorting questions."
 description: "Complete guide to Go sorting functions including slices.Sort(), slices.SortFunc(), and slices.SortStableFunc() with real interview examples and performance considerations."
 toc: true
